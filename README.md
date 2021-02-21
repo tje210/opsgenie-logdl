@@ -19,3 +19,4 @@ Functionality I can envision adding:
   - Options to draw out certain info from downloaded entries, like (if applicable) message + uniqueAlertID, email body etc
   - getopts for help and other options
   - ask to remove api key if desired
+  - instead of going all the way to getting lof entries, just display the timestamps
